@@ -8,12 +8,13 @@ body{
     background-size: cover;
     background-color: rgba(42, 44, 44, 0.9);
 }
-h1, h2{
+h1{
     color: white;
     font-family: URW Chancery L, cursive;
 }
 
 h2{
+    color: white;
     margin-block-start: 0;
 }
 h3{
